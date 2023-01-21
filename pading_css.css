@@ -1,0 +1,10 @@
+.m{
+    width: 250px;
+    height: 250px;
+    background-color: dodgerblue;
+    border : 1px solid green;
+    padding: 50px 60px 70px 80px;
+}
+p{
+    color:blue;
+}

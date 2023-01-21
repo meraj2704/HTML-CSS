@@ -1,0 +1,19 @@
+a{
+    color:green;
+    background-color: black;
+    border: 5px solid red;
+    text-align: center;
+    padding: 5px 15px;
+}
+
+a:hover{
+    color:white;
+    background-color: red;
+}
+a:active{
+    color: yellow;
+}
+a:visited{
+    color:tomato;
+    background-color: black;
+}

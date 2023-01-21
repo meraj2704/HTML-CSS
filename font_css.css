@@ -1,0 +1,15 @@
+body{
+    font-family: 'Sofia Sans', sans-serif;
+}
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:500;
+    font-style: italic;
+    color: yellow;
+    
+}
+p{
+    font-size: 100px;
+    font-family: cursive;
+    font-style: bold;
+}
