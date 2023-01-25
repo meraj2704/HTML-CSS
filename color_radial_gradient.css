@@ -1,0 +1,14 @@
+h1{
+    color: rgb(255,0,0);
+}
+h2{
+    color: rgb(255,0,0,0.5);
+}
+p{
+    color: #27cc6e;
+}
+div{
+    height: 400px;
+    width: 500px;
+    background: linear-gradient(red, green) ;
+}

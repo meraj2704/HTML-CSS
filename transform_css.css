@@ -1,0 +1,12 @@
+h1{
+    color: red;
+    text-align: center;
+}
+.s{
+    width: 400px;
+    height: 300px;
+    background-color: red;
+    color: white;
+    font-size: 30px;
+    margin: 100px auto;
+}

@@ -1,0 +1,7 @@
+h1:nth-child(2){
+    color:red;
+}
+p::first-letter{
+    color: green;
+    font-size: 200px;
+}

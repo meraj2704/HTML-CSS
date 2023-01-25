@@ -1,0 +1,27 @@
+.img1{
+    width:400px;
+    float:left;
+}
+div{
+    float: left;
+}
+.b1{
+    width: 300px;
+    height: 300px;
+    background-color: black;
+}
+.b2{
+    width: 300px;
+    height: 300px;
+    background-color: red;
+}
+.b3{
+    width: 300px;
+    height: 300px;
+    background-color: green;
+}
+.b4{
+    width: 300px;
+    height: 300px;
+    background-color: blue;
+}

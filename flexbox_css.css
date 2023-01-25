@@ -1,0 +1,19 @@
+.flexbox{
+    background-color: aqua;
+    font-size: 35px;
+    display: flex;
+    flex-wrap: wrap;
+    /*flex-direction: column;
+    justify-content: space-around;
+    justify-content: flex-end; */
+    justify-content: center;
+    height: 400px;
+    align-items: flex-start;
+    align-items: flex-end;
+}
+.flexbox > div{
+    background-color: blue;
+    margin: 5px;
+    padding: 5px;
+    width: 100px;
+}

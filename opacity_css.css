@@ -1,0 +1,19 @@
+.im:hover{
+    opacity: 0.5;
+}
+.box2 p{
+    text-align: center;
+    color: blue;
+    font-style: bold;
+    font-size: 100px;
+   
+}
+.box2 p:hover{
+    opacity: 0.5;
+}
+.box1{
+    width: 500px;
+    height:400px;
+    background: url(img.jpg) no-repeat;
+    
+}

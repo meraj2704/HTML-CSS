@@ -1,0 +1,12 @@
+h1{
+    text-align: center;
+    display: inline-block;
+}
+p{
+    text-align:center;
+    display: inline-block;;
+}
+span{
+    text-align:center;
+    font-size:20px;
+}
